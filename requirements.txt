@@ -1,0 +1,12 @@
+# Core orchestration stack (optional in this offline demo, used in full deployment)
+langchain>=0.3.0
+langgraph>=0.2.0
+langchain-openai>=0.2.0
+
+# Vector DB and numeric runtime (for production-grade embedding/indexing)
+faiss-cpu>=1.8.0
+numpy>=1.26.0
+
+# Data contracts and environment handling
+pydantic>=2.7.0
+python-dotenv>=1.0.1
