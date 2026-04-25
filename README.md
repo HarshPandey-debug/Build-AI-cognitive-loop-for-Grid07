@@ -114,11 +114,4 @@ python run_demo.py
 
 ---
 
-## Deliverables Checklist
 
-- [x] Python source code (modular + documented)
-- [x] `requirements.txt`
-- [x] `.env.example`
-- [x] `execution_logs.md`
-- [x] `README.md` describing graph architecture + injection defense
-- [x] `README` visual diagrams for architecture and guardrails
